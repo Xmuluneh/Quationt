@@ -1,4 +1,4 @@
-package com.company;
+package com.Muluneh;
 
 public class Largest {
     static boolean isPrime(int n){
